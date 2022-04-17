@@ -33,9 +33,12 @@ D. Support Vector Machine
 True positive (TP)is correctly predicted positive values which mean that value of actual class is yes and predicated class is also yes. True Negative (TN) is correctly predicted negative values which means that the actual class is no and value of predicated also no. False Positive (FP) is actual class is no and predicated class is no. False Negative (FN) is actual class is yes and predicated class is no. 
 
 **Note** 
-Precision is the number of true positive review out of total number positively assigned review.  
-Recall is the number of true positive out of the actual positive review
-The evaluation metric from this practice problem is F1-Score.
+
+**Precision**  Precision is the number of true positive review out of total number positively assigned review.
+
+**Recall**     Recall is the number of true positive out of the actual positive review
+
+**F1-Score**   The evaluation metric from this practice problem is F1-Score.
 
 **Tweets Preprocessing and Cleaning**
 
