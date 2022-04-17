@@ -20,12 +20,22 @@ Also, to add on I have applied few more Machine Learning Algorithms to compare t
 Formally, given a training sample of tweets and labels, where label ‘1’ denotes the tweet is racist/sexist and label ‘0’ denotes the tweet is not racist/sexist, your objective is to predict the labels on the given test dataset.
 
 **Methodology**
+
 A. Logistic Regression 
+
 B. Random Forest Algorithm
+
 C. DecisionTree Classifier Model
+
 D. Support Vector Machine
 
-Note: The evaluation metric from this practice problem is F1-Score.
+ Performance evaluation used for checking the Classification result as Precision, recall and F-measure. 
+True positive (TP)is correctly predicted positive values which mean that value of actual class is yes and predicated class is also yes. True Negative (TN) is correctly predicted negative values which means that the actual class is no and value of predicated also no. False Positive (FP) is actual class is no and predicated class is no. False Negative (FN) is actual class is yes and predicated class is no. 
+
+**Note** 
+Precision is the number of true positive review out of total number positively assigned review.  
+Recall is the number of true positive out of the actual positive review
+The evaluation metric from this practice problem is F1-Score.
 
 **Tweets Preprocessing and Cleaning**
 
