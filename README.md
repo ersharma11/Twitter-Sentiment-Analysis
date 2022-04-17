@@ -3,9 +3,8 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 
 Introduction
 Natural Language Processing (NLP) is a hotbed of research in data science these days and one of the most common applications of NLP is sentiment analysis. From opinion polls to creating entire marketing strategies, this domain has completely reshaped the way businesses work, which is why this is an area every data scientist must be familiar with.
-
 Thousands of text documents can be processed for sentiment (and other features including named entities, topics, themes, etc.) in seconds, compared to the hours it would take a team of people to manually complete the same task.
-
+Microblogging sites like Facebook, Twitter are now becoming more popular among the people as it provides a direct platform for the users to flatus their views on any topic. These Microblogs are widely used by users to show their emotions, sentiment for any events like Natural Disasters, Earthquake, Sports etc. and the places they visit and the food they eat. Twitter is one of those microblogging sites and widely used platform for emotions manifestation & flooding the views to the intended community.
 We will do so by following a sequence of steps needed to solve a general sentiment analysis problem. We will start with preprocessing and cleaning of the raw text of the tweets. Then we will explore the cleaned text and try to get some intuition about the context of the tweets. After that, we will extract numerical features from the data and finally use these feature sets to train models and identify the sentiments of the tweets.
 
 This is one of the most interesting challenges in NLP so I’m very excited to take this journey with you!
